@@ -1,4 +1,5 @@
 Lahenduse kirjeldus
+
   Loodav rakendus on etteantud WSDL-i (services.wsdl) põhjal koostatud veebiteenus, mis sisaldab
   vastust ühele päringule.
   Lahendus ei pea täitma X-tee turvaserverist tulenevaid vajadusi, ehk teenuse päises sisalduvaid
@@ -6,6 +7,7 @@ Lahenduse kirjeldus
   staatiliselt määratud.
   
 Rakunduse käivitamine lokaalselt
+
   Et jooksutada seda, tuleb teil alla tõmmata Tomcat https://tomcat.apache.org/download-80.cgi.
   Pärast seda "git clone https://github.com/Terminaator/xteeFieAndmed.git"
   Edasi tuleb kasutada "mvn install", mis loob Target'i alla xteeFieAndmed.war kopeerige see fail Apache tomcat webapps kausta.
