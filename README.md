@@ -14,4 +14,5 @@ Rakunduse käivitamine lokaalselt
   Pärast seda minge Apache tomcat bin kausta ja avage startup.sh.
   
   Endpoint address: http://localhost:8080/xteeFieAndmed/services/XteeFieAndmedSOAP
+  
   WSDL: http://localhost:8080/xteeFieAndmed/services/XteeFieAndmedSOAP?wsdl
